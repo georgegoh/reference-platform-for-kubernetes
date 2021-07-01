@@ -13,7 +13,7 @@ individuals:
   - [Paul Czarkowski](https://github.com/paulczar)
   - [Andriy Kalashnykov](mailto:akalashnykov@vmware.com)
   - [Robin Foe](mailto:rfoe@vmware.com)
-  - [George Goh](mailto:ggoh@vmware.com)
+  - [George Goh](mailto:gohge@vmware.com)
   - [Dan Baskette](mailto:basketted@vmware.com)
   - [Josh Rosso](mailto:rossoj@vmware.com)
   - [James Kirkland](mailto:kirklandja@vmware.com)
